@@ -7,6 +7,9 @@ In this activity, you will work with a group to build an application that search
 
 ### First Page
 Form - textbox - submit button
+input form would have an id that we would have an id that we link back to
+and also need to have a drop down selct with all the options
+
 
 create box
   
@@ -23,13 +26,22 @@ notated-music
 websites
 
 event for submitbtn
-getid from input of selected
-  equals variable in js
+  getid from input of selected
+    equals variable in js
 
-fetch api from library congress
-  - include variable from called id
-
+  fetch api from library congress
+    - include variable from called id
+save variable of city serched to local storage
 ### Second Page
+create new elements that we have gotten from the second html 
+
+go back button
+
+get previously saved city 
+
+and also save new serch result to storage 
+ 
+
 
 ## Instructions
 
