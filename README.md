@@ -3,6 +3,34 @@
 
 In this activity, you will work with a group to build an application that searches and displays results from the Library of Congress API.
 
+## Psuedo Code
+
+### First Page
+Form - textbox - submit button
+
+create box
+  
+  create an input form 
+
+
+maps 
+audio
+photos
+manuscripts
+newspapers
+film-and-video
+notated-music
+websites
+
+event for submitbtn
+getid from input of selected
+  equals variable in js
+
+fetch api from library congress
+  - include variable from called id
+
+### Second Page
+
 ## Instructions
 
 The completed application should meet the following criteria:
