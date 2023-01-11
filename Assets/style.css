@@ -1,0 +1,15 @@
+#container{
+    background-color: aliceblue;
+    margin-top: 40px;
+}
+
+.divEl {
+    border: 2px solid black;
+    padding-left: 20px;
+}
+
+#div2El {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
