@@ -11,10 +11,8 @@ input form would have an id that we would have an id that we link back to
 and also need to have a drop down selct with all the options
 
 
-create box
-  
+create div
   create an input form 
-
 
 maps 
 audio
